@@ -6,6 +6,10 @@
 - 📫 How to reach me ...
 
 <br />
+### Connect me:
+
+<img align="left" alt="LinkedIn" width="26px" src="https://www.linkedin.com/in/stephy-grace-oommen-6a2282201/" />
+<br />
 
 ### Languages and Tools:
 
